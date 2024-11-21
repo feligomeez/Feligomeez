@@ -8,7 +8,7 @@
  <div id="header" align="left">
 
 ### :man_technologist: Sobre mí :
-Apasionado de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Apasionado de la tecnología especializado en Back-End <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * :telescope: Actualmente estoy en mi ultimo año de Ingeniería Informática y necesito nuevos retos :muscle:
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje Java y Php, enfocandome sobre todo en Back-End, entre otros.
