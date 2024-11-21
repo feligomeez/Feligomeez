@@ -7,25 +7,47 @@
 ---
  <div id="header" align="left">
 
-### :man_technologist: Sobre mí :
-Apasionado de la tecnología especializado en Back-End <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-* :telescope: Actualmente estoy en mi ultimo año de Ingeniería Informática y necesito nuevos retos :muscle:
+# 👋 ¡Hola! Soy Felipe  
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje Java y Php, enfocandome sobre todo en Back-End, entre otros.
+🎓 **Estudiante de último año de Ingeniería Informática** con una gran pasión por el desarrollo back-end y las tecnologías que hacen posible construir aplicaciones robustas, escalables y eficientes.  
 
-* Me encanta descubrir nuevas formas de solucionar problemas en mi trabajo.
+## 🚀 Sobre mí  
 
-<!--
-**Feligomeez/Feligomeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 **Especialización:** Desarrollo back-end.  
+- 🌐 **Stack tecnológico:**  
+  - **Lenguaje principal:** Java  
+  - **Frameworks y tecnologías:** JPA, Hibernate  
+  - **Bases de datos:** SQL  
+  - ☁️ **Cloud computing:** Explorando servicios en la nube para integrarlos en mis proyectos.  
+- 🛠️ Actualmente trabajando en mi proyecto final de grado (TFG), enfocado en **microservicios, AWS y arquitectura distribuida**.  
 
-Here are some ideas to get you started:
+Siempre busco aprender algo nuevo, enfrentarme a desafíos técnicos y encontrar soluciones creativas. Mi meta es seguir creciendo profesionalmente y contribuir al desarrollo de proyectos innovadores.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ ¿Por qué me encanta este mundo?  
+
+El desarrollo de software me entusiasma porque no hay límites para lo que se puede construir. Me fascina cómo las líneas de código se transforman en herramientas que resuelven problemas reales y conectan personas alrededor del mundo.  
+
+Además, creo en el poder del trabajo colaborativo, la innovación constante y el aprendizaje continuo para evolucionar como desarrollador.  
+
+## 🛠️ Habilidades  
+
+- **Lenguajes:** Java, SQL  
+- **Bases de datos:** MySQL, PostgreSQL  
+- **Frameworks:** Hibernate, JPA  
+- **Otros:** Diseño de APIs REST, patrones de diseño, herramientas de control de versiones (Git)  
+- **Cloud:** Primeros pasos con AWS  
+
+## 📈 Objetivos  
+
+- Continuar mi formación en **arquitectura de microservicios** y **tecnologías cloud**.  
+- Dominar frameworks como **Spring** para fortalecer aún más mis habilidades back-end.  
+- Participar en proyectos de código abierto y colaborar con otros desarrolladores para seguir creciendo.  
+
+## 📫 Contacto  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario)  
+- 📧 Email: tu.correo@ejemplo.com  
+
+---
+
+💡 _"La tecnología no solo se trata de crear, sino de mejorar la vida de las personas. Cada línea de código es una oportunidad para hacer algo grande."_
