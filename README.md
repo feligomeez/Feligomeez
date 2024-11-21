@@ -27,27 +27,6 @@ Siempre busco aprender algo nuevo, enfrentarme a desafíos técnicos y encontrar
 
 El desarrollo de software me entusiasma porque no hay límites para lo que se puede construir. Me fascina cómo las líneas de código se transforman en herramientas que resuelven problemas reales y conectan personas alrededor del mundo.  
 
-Además, creo en el poder del trabajo colaborativo, la innovación constante y el aprendizaje continuo para evolucionar como desarrollador.  
-
-## 🛠️ Habilidades  
-
-- **Lenguajes:** Java, SQL  
-- **Bases de datos:** MySQL, PostgreSQL  
-- **Frameworks:** Hibernate, JPA  
-- **Otros:** Diseño de APIs REST, patrones de diseño, herramientas de control de versiones (Git)  
-- **Cloud:** Primeros pasos con AWS  
-
-## 📈 Objetivos  
-
-- Continuar mi formación en **arquitectura de microservicios** y **tecnologías cloud**.  
-- Dominar frameworks como **Spring** para fortalecer aún más mis habilidades back-end.  
-- Participar en proyectos de código abierto y colaborar con otros desarrolladores para seguir creciendo.  
-
-## 📫 Contacto  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario)  
-- 📧 Email: tu.correo@ejemplo.com  
-
----
+Además, creo en el poder del trabajo colaborativo, la innovación constante y el aprendizaje continuo para evolucionar como desarrollador. 
 
 💡 _"La tecnología no solo se trata de crear, sino de mejorar la vida de las personas. Cada línea de código es una oportunidad para hacer algo grande."_
