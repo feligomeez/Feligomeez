@@ -13,7 +13,7 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data An
 
 * :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje Java y Php, enfocandome sobre todo en Back-End, entre otros.
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+* Me encanta descubrir nuevas formas de solucionar problemas en mi trabajo.
 
 <!--
 **Feligomeez/Feligomeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
