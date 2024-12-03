@@ -16,7 +16,7 @@
 - 💻 **Especialización:** Desarrollo back-end.  
 - 🌐 **Stack tecnológico:**  
   - **Lenguaje principal:** Java  
-  - **Frameworks y tecnologías:** JPA, Hibernate  
+  - **Frameworks y tecnologías:** Spring, JPA, Hibernate  
   - **Bases de datos:** SQL  
   - ☁️ **Cloud computing:** Explorando servicios en la nube para integrarlos en mis proyectos.  
 - 🛠️ Actualmente trabajando en mi proyecto final de grado (TFG), enfocado en **microservicios, AWS y arquitectura distribuida**.  
