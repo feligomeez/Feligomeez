@@ -9,19 +9,7 @@
 
 # 👋 ¡Hola! Soy Felipe  
 
-🎓 **Estudiante de último año de Ingeniería Informática** con una gran pasión por el desarrollo back-end y las tecnologías que hacen posible construir aplicaciones robustas, escalables y eficientes.  
-
-## 🚀 Sobre mí  
-
-- 💻 **Especialización:** Desarrollo back-end.  
-- 🌐 **Stack tecnológico:**  
-  - **Lenguaje principal:** Java  
-  - **Frameworks y tecnologías:** Spring, JPA, Hibernate  
-  - **Bases de datos:** SQL  
-  - ☁️ **Cloud computing:** Explorando servicios en la nube para integrarlos en mis proyectos.  
-- 🛠️ Actualmente trabajando en mi proyecto final de grado (TFG), enfocado en **microservicios, AWS y arquitectura distribuida**.  
-
-Siempre busco aprender algo nuevo, enfrentarme a desafíos técnicos y encontrar soluciones creativas. Mi meta es seguir creciendo profesionalmente y contribuir al desarrollo de proyectos innovadores.  
+🎓 **Graduado en Ingeniería Informática** con una gran pasión por el desarrollo software y las tecnologías que hacen posible construir aplicaciones robustas, escalables y eficientes.  
 
 ## ✨ ¿Por qué me encanta este mundo?  
 
